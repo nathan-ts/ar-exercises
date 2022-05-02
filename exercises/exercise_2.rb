@@ -10,3 +10,4 @@ puts "----------"
 # puts @store2.name
 @store1.name = 'Toronto'
 # puts @store1.name
+@store1.save
