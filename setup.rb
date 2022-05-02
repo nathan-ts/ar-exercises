@@ -42,3 +42,7 @@ ActiveRecord::Schema.define do
 end
 
 puts 'Setup DONE'
+
+# bundle exec ruby exercises/exercise_1.rb
+
+# irb -r './setup.rb'
